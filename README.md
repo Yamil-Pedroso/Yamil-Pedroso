@@ -5,7 +5,7 @@
 
 Welcome to my GitHub profile 🤓! I am a full-stack developer and artist passionate about technology and creativity.
 
-As a developer, I have worked on projects ranging from web and mobile applications to e-commerce platforms and content management systems. I have experience with programming languages such as HTML, CSS, JavaScript, Python, Ruby and have worked with frameworks such as React and Django.
+As a developer, I have worked on projects ranging from web and mobile applications to e-commerce platforms and content management systems. I have experience with programming languages such as HTML, CSS, JavaScript, Python, Ruby and have worked with frameworks such as React, Django and Ruby on rails.
 
 As an artist, I love to create and explore new forms of expression. I use a variety of techniques and media, such as drawing, painting, and digital media, to bring my ideas to life.
 
