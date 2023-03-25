@@ -3,7 +3,7 @@
 
 ![githubyam](https://user-images.githubusercontent.com/55386637/227719354-a8fc4579-afd5-4210-b2a4-c94d3777155a.png)
 
-Welcome to my GitHub profile! I am a full-stack developer and artist passionate about technology and creativity.
+Welcome to my GitHub profile :simple_smile:! I am a full-stack developer and artist passionate about technology and creativity.
 
 As a developer, I have worked on projects ranging from web and mobile applications to e-commerce platforms and content management systems. I have experience with programming languages such as HTML, CSS, JavaScript, Python, and have worked with frameworks such as React and Django.
 
