@@ -9,6 +9,6 @@ As a developer, I have worked on projects ranging from web and mobile applicatio
 
 As an artist, I love to create and explore new forms of expression. I use a variety of techniques and media, such as drawing, painting, and digital media, to bring my ideas to life.
 
-In my free time, I enjoy learning new technologies and art techniques.
+In my free time, I enjoy learning new technologies, art techniques, read and play video games.
 
 Feel free to explore my GitHub profile and projects, and do not hesitate to contact me if you have any questions or are interested in collaborating on an exciting project. Thank you for visiting my profile!
