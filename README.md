@@ -1,9 +1,7 @@
 
 <h3>Hola there, my name is Yamil Pedroso 👋</h3> 
 
-![colorydev](https://private-user-images.githubusercontent.com/55386637/316266477-521ea241-40e2-4909-b137-c1f0d0c17efa.png)
-
-
+![githubyam](https://user-images.githubusercontent.com/55386637/227719354-a8fc4579-afd5-4210-b2a4-c94d3777155a.png)
 
 Welcome to my GitHub profile 🤓! I am a full-stack developer and artist passionate about technology and creativity.
 
