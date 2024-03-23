@@ -1,7 +1,8 @@
 
 <h3>Hola there, my name is Yamil Pedroso 👋</h3> 
 
-![githubyam](https://user-images.githubusercontent.com/55386637/227719354-a8fc4579-afd5-4210-b2a4-c94d3777155a.png)
+![githubyam](https://github.com/Yamil-Pedroso/Yamil-Pedroso/issues/1#issuecomment-2016590037)
+
 
 Welcome to my GitHub profile 🤓! I am a full-stack developer and artist passionate about technology and creativity.
 
