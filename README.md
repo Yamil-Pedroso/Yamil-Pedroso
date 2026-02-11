@@ -1,5 +1,6 @@
 
 <h3>Hola there, my name is Yamil Pedroso 👋</h3> 
+
 ![bg](https://github.com/user-attachments/assets/004fc1ed-5dfe-49ce-a2af-f5b4889da805)
 
 Welcome to my GitHub profile 🤓! I am a full-stack developer with over 5+ years of experience building scalable, responsive, and user-focused applications across the web and artist passionate about technology and creativity.
